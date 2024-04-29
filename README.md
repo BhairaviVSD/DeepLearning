@@ -1,6 +1,6 @@
 # Optimizing ResNet Architecture for Image Classification: A Study on Parameter Efficiency
 
-This repository contains the code and report for our study on fine-tuning strategies and hyperparameters to optimize the Residual Network (ResNet) architecture, specifically ResNet18, for image classification tasks using the CIFAR-10 dataset.
+This repository contains the code and report for the study on fine-tuning strategies and hyperparameters to optimize the Residual Network (ResNet) architecture, specifically ResNet18, for image classification tasks using the CIFAR-10 dataset.
 
 ## Abstract
 
